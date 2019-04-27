@@ -1,0 +1,24 @@
+C:\Users\Alex\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.exe.config
+C:\Users\Alex\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.exe
+C:\Users\Alex\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.pdb
+C:\Users\Alex\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.xml
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.vbprojAssemblyReference.cache
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.Form1.resources
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.Resources.resources
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.vbproj.GenerateResource.cache
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.exe
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.xml
+C:\Users\Alex\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.pdb
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.exe.config
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.exe
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.pdb
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\bin\Debug\PixelGD.xml
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.vbprojAssemblyReference.cache
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.Form1.resources
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.Resources.resources
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.vbproj.GenerateResource.cache
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.vbproj.CoreCompileInputs.cache
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.exe
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.xml
+D:\Users\jose luis rodriguez\source\repos\PixelGD\PixelGD\obj\Debug\PixelGD.pdb
